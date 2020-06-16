@@ -18,3 +18,7 @@ https://www.npmjs.com/package/react-bootstrap-slider
 
 Also, make sure to update your `package.json` so that you're using React version 16.4.
 
+All the code for these components is here:
+
+https://github.com/LIT-W07GH/ReactRandomComponents/blob/master/RandomReactStuff/ClientApp/src/components/Home.js
+
